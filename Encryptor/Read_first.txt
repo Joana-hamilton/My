@@ -1,0 +1,4 @@
+This is File/Folder encryption & decryption tools which written in python and some other libraries,
+currently it's in early stage and it works perfectly and it supports various algorithms like AES,ChaCha20, RSA and other.
+
+I tested all algorithms and it works well, test this tool and provide and suggest improvement on this script.

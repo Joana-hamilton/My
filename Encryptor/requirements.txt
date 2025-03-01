@@ -1,0 +1,6 @@
+os
+sys
+threading
+pyqt5
+pycryptodome
+hmac
