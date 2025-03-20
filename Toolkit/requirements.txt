@@ -1,0 +1,7 @@
+argparse
+socket
+threading
+queue
+paramiko
+ftplib
+requests
