@@ -1,0 +1,14 @@
+
+
+1.//create a baseline 
+python3 FIM.py --create --baseline your_filename.json /directory/which/you/want/to/monitor
+
+this will create a .json file in FIM directory, it work as checking your old hash and compare with current hash.
+
+2.//do changes in that directory which you want to monitor. (change content of file, or delete)
+
+3.//check changes
+python3 FIM.py --check --baseline your_filename.json
+
+
+you can modify script in other low level languages like rust,c,c++ for working realtime and generate alerts/notifications.
