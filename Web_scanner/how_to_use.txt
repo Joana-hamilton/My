@@ -1,0 +1,5 @@
+//single vulnerability
+python3.13 main.py http://testphp.vulnweb.com sqli sqli-payload-list.txt
+
+//more than single vulnerabilities
+python3.13 main.py http://testphp.vulnweb.com sqli,xss sqli-payload-list.txt,xss-payload.txt
